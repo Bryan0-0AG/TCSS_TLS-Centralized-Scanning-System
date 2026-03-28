@@ -1,4 +1,0 @@
-Dominio,Escaneado en,Version TLS,Días restantes,Emisor de certificado TLS,Protocolo de cifrado,Riesgo,Observaciones
-google.com,2026-03-28 10:51:34,TLSv1.3,64,WR2,AES_256_GCM_SHA384,BAJO,[]
-instagram.com,2026-03-28 10:51:40,TLSv1.3,7,DigiCert Global G2 TLS RSA SHA256 2020 CA1,CHACHA20_POLY1305_SHA256,MEDIO,['Certificado por vencer (7 días)']
-ab,2026-03-28 11:12:39,---,,---,---,CRITICO,['No se pudo conectar correctamente al sitio']
